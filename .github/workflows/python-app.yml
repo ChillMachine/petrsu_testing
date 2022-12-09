@@ -30,6 +30,7 @@ jobs:
       run: |
         coverage run -m unittest test.py
         coverage-lcov
+        ls
         
     - name: Coveralls
       uses: coverallsapp/github-action@master
