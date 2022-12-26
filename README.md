@@ -1,6 +1,7 @@
 # petrsu_testing
-[![Coverage Status](https://coveralls.io/repos/github/ChillMachine/petrsu_testing/badge.svg?branch=main)](https://coveralls.io/github/ChillMachine/petrsu_testing?branch=main)
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=ChillMachine_petrsu_testing)](https://sonarcloud.io/summary/new_code?id=ChillMachine_petrsu_testing)
+[![Coverage Status](https://coveralls.io/repos/github/ChillMachine/petrsu_testing/badge.svg?branch=main)](https://coveralls.io/github/ChillMachine/petrsu_testing?branch=main)
+
 
 Tests description:
 discriminant => D
